@@ -9,13 +9,13 @@ export default function() {
                     Discussion
                 </NavLink> 
             </div>
-            
+
             <div>
                 <NavLink exact to="/rules">Rules</NavLink> 
             </div>
 
             <div>
-                <NavLink exact to="/workflow-a">Workflow</NavLink> 
+                <NavLink exact to="/workflow">Workflow</NavLink> 
             </div>
         </div>
     )
